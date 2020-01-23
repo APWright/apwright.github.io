@@ -54,14 +54,14 @@
   .archive__item-title {
     margin-top: 1em;
     border-bottom: none;
-    font: $global-font-family;
+    font-family: $global-font-family;
   }
 }
 
 .archive__item-excerpt {
   margin-top: 0;
   font-size: $type-size-6;
-  font: $global-font-family;
+  font-family: $global-font-family;
   & + p {
     text-indent: 0;
   }
@@ -82,7 +82,7 @@
 
   .archive__item-title {
     text-decoration: underline;
-    font: $global-font-family;
+    font-family: $global-font-family;
   }
 }
 
