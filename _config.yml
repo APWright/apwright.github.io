@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Austin P. Wright"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  avatar           : "portrait.jpg"
+  bio              : "Georgia Tech, Machine Learning PhD"
+  location         : "Atlanta, GA"
   employer         :
   pubmed           : ""
   googlescholar    : "https://scholar.google.com/citations?user=fow4eKkAAAAJ&hl=en"
