@@ -8,11 +8,15 @@ date: 2015-01-01
 location: "Oakland, California"
 ---
 
+> "Austin is consistently brimming with enthusiasm about the theoretical implications of
+> Physics and Computer Science - often engrossing groups of students with his stories - he is firmly grounded in
+> the realities of needs of real people. I have witnessed this through his patient, deliberate mentoring of high
+> school robotics students." --Derrick McMillen, Coliseum College Prep Academy
+
 ## Experience
 
-- Visited local underprivileged high schools weekly from 2015 to 2018 to teach the fundamentals of physics, computer
-  science, and engineering required to build a robot. Mentored students throughout the process of
-  design, fabrication, testing, and competition.
+- Visited local underprivileged high schools weekly from 2015 to 2018 to teach the fundamentals of physics, computer science, and engineering required to build a robot.
+- Mentored students throughout the process of design, fabrication, testing, and competition.
 - Won the Outstanding Mentor Award for dedication and enthusiasm.
 
 ## Letter of Recommendation
