@@ -1,5 +1,5 @@
 ---
-title: "Canaries in a Nuclear Mine
+title: "Canaries in a Nuclear Mine:
 Complexity Science for Nuclear Security"
 collection: talks
 type: "Talk"
