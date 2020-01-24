@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/18-upr-canary
 venue: "Department of Energy (DOE) National Nuclear Security Administration (NNSA) Defense Nuclear Nonproliferation Research and Development (DNN R&D) University Program Review (UPR)."
-date: 2017-08-30
+date: 2018-06-06
 location: "Ann Arbor, Michigan"
 ---
 
