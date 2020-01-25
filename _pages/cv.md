@@ -36,22 +36,22 @@ redirect_from:
 
 > **_Centers for Disease Control and Prevention_**  
 > _Oak Ridge Institute of Science Education Fellowship_
-> Chamblee, Georgia, Fall 2019 to Present  
+> Fall 2019 to Present  
 > Introduced natural language processing and data visualization tools for detecting emerging trends in the opiod epidemic.
 
 > **_Los Alamos National Laboratory_**  
 > _Graduate Research Assistant_
-> Los Alamos, New Mexico, Summer 2018  
+> Summer 2018  
 > Designed and built machine learning data analysis models and visualization dashboards for facility characterization, and spent fuel measurement using disparate stream data fusion.
 
 > **_Nuclear Science and Security Consortium_**  
 > Undergraduate Reasearch Affiliate
-> Berkeley, California, Winter 2017 to Spring 2018  
+> Winter 2017 to Spring 2018  
 > Developed multiplex network modeling for nuclear nonproliferation and multisensor security systems, with a focus on machine learning in particular deep recurrent neural networks.
 
 > **_CITRIS and the Banatao Institute_**  
 > Undergraduate Reasearch Assistant
-> Berkeley, California, Summer 2017 to Fall 2017  
+> Summer 2017 to Fall 2017  
 > Lead creation of novel photogrammetry pipeline for Phoebe A Hearst Museum of Anthropology in collaboration with the CITRIS Pacific Research Platform.
 
 # Honors and Awards
