@@ -34,6 +34,11 @@ redirect_from:
 
 # Research Experience
 
+> **_Centers for Disease Control and Prevention_**  
+> Oak Ridge Institute of Science Education Fellow  
+> Chamblee, Georgia, Fall 2019 to Present  
+> Developed natural language processing and data visualization tools for detecting emerging trends in the opiod epidemic.
+
 > **_Los Alamos National Laboratory_**  
 > Graduate Research Assistant  
 > Los Alamos, New Mexico, Summer 2018  
@@ -46,10 +51,9 @@ redirect_from:
 
 # Publications
 
-> {% for post in site.publications reversed%}
-> {% include archive-single-cv.html %}
-
-{% endfor %}
+  <blockquote> {% for post in site.publications reversed%}
+    {% include archive-single-cv.html %}
+{% endfor %} </blockquote>
 
 # Talks
 
