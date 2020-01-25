@@ -37,48 +37,37 @@ redirect_from:
 
 ---
 
+---
+
 # Research Experience
 
-### Los Alamos National Laboratory
-
+> **_Los Alamos National Laboratory_**  
 > **Graduate Research Assistant**  
 > Los Alamos, New Mexico, Summer 2018
 >
 > Developed machine learning data analysis models and visualization dashboards for facility characterization, and spent fuel measurement using disparate stream data fusion.
 
----
-
-### Nuclear Science and Security Consortium
-
+> **_Nuclear Science and Security Consortium_**  
 > **Undergraduate Reasearch Affiliate**  
 > Berkeley, California, Winter 2017 to Spring 2018
 >
 > Developed multiplex network modeling for nuclear nonproliferation and multisensor security systems, with a focus on machine learning in particular deep recurrent neural networks.
 
-# Skills
-
-- Skill 1
-- Skill 2
-  - Sub-skill 2.1
-  - Sub-skill 2.2
-  - Sub-skill 2.3
-- Skill 3
-
 # Publications
 
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed%}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
+  <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
+  <ul>{% for post in site.teaching reversed%}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
