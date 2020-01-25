@@ -37,23 +37,36 @@ redirect_from:
 > **_Centers for Disease Control and Prevention_**  
 > _Oak Ridge Institute of Science Education Fellowship_
 > Chamblee, Georgia, Fall 2019 to Present  
-> Developed natural language processing and data visualization tools for detecting emerging trends in the opiod epidemic.
+> Introduced natural language processing and data visualization tools for detecting emerging trends in the opiod epidemic.
 
 > **_Los Alamos National Laboratory_**  
 > _Graduate Research Assistant_
 > Los Alamos, New Mexico, Summer 2018  
-> Developed machine learning data analysis models and visualization dashboards for facility characterization, and spent fuel measurement using disparate stream data fusion.
+> Designed and built machine learning data analysis models and visualization dashboards for facility characterization, and spent fuel measurement using disparate stream data fusion.
 
 > **_Nuclear Science and Security Consortium_**  
 > Undergraduate Reasearch Affiliate
 > Berkeley, California, Winter 2017 to Spring 2018  
 > Developed multiplex network modeling for nuclear nonproliferation and multisensor security systems, with a focus on machine learning in particular deep recurrent neural networks.
 
+> **_CITRIS and the Banatao Institute_**  
+> Undergraduate Reasearch Assistant
+> Berkeley, California, Summer 2017 to Fall 2017  
+> Lead creation of novel photogrammetry pipeline for Phoebe A Hearst Museum of Anthropology in
+> collaboration with the CITRIS Pacific Research Platform.
+
+# Honors and Awards
+
+- 2019, Oak Ridge Institute of Science Education Fellowship
+- 2019, Georgia Tech Presidents Fellowship
+- 2017, U.S. Department of Energy Network Science and Nuclear Nonproliferation Challenge 1st Prize
+- 2016, Pioneers in Engineering Outstanding Mentor Award
+
 # Publications
 
-{% for post in site.publications reversed%}
-{% include archive-single-cv.html %}
-{% endfor %}
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
 
 # Talks
 
@@ -69,4 +82,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+- 2016, President Delta Sigma Phi Fraternity Hilgard Chapter
