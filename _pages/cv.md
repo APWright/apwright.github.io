@@ -44,7 +44,16 @@ redirect_from:
 > **Graduate Research Assistant**  
 > Los Alamos, New Mexico, Summer 2018
 >
-> > Developed machine learning data analysis models and visualization dashboards for facility characterization, and spent fuel measurement using disparate stream data fusion.
+> Developed machine learning data analysis models and visualization dashboards for facility characterization, and spent fuel measurement using disparate stream data fusion.
+
+---
+
+### Nuclear Science and Security Consortium
+
+> **Undergraduate Reasearch Affiliate**  
+> Berkeley, California, Winter 2017 to Spring 2018
+>
+> Developed multiplex network modeling for nuclear nonproliferation and multisensor security systems, with a focus on machine learning in particular deep recurrent neural networks.
 
 # Skills
 
