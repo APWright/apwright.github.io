@@ -35,7 +35,7 @@ redirect_from:
 # Research Experience
 
 > **_Centers for Disease Control and Prevention_**  
-> Oak Ridge Institute of Science Education Fellow  
+> Oak Ridge Institute of Science Education Fellowship
 > Chamblee, Georgia, Fall 2019 to Present  
 > Developed natural language processing and data visualization tools for detecting emerging trends in the opiod epidemic.
 
@@ -52,7 +52,7 @@ redirect_from:
 # Publications
 
   <blockquote> {% for post in site.publications reversed%}
-    {% include archive-single-cv.html %}
+    {% include archive-single.html %}
 {% endfor %} </blockquote>
 
 # Talks
