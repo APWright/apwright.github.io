@@ -11,13 +11,29 @@ redirect_from:
 
 # Education
 
-- Ph.D in Machine Learning, Georiga Institute of Technology, (Current)
+## Georiga Institute of Technology
 
-  - Advisor: [Polo Chau](https://poloclub.github.io/)
+### PhD in Machine Learning
 
-- M.Sc. in Computing Specialism Machine Learning, Imperial College London, 2019
-  - Thesis Topic: Nerual Program Embedding
-- B.A. in Computer Science and Physics, Univeristy of California, Berkely,2018
+- Advisor: [Polo Chau](https://poloclub.github.io/)
+
+- 2019-Present
+
+## Imperial College London
+
+### MSc in Computing with Specialism in Machine Learning
+
+- Overall Result: **Merit**
+- Thesis Topic: Nerual Program Embedding
+- Advisor: Herbert Wiklicky
+- 2018-2019
+
+## Univeristy of California, Berkeley
+
+### BA in Computer Science and Physics
+
+- Overall GPA: **3.63**, Physics GPA: **3.59**, CS GPA: **3.87**
+- 2014-2018
 
 # Work experience
 
