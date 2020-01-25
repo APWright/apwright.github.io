@@ -7,12 +7,14 @@ redirect_from:
   - /resume
 ---
 
+---
+
 # Education
 
 ## Georiga Institute of Technology
 
 > **PhD in Machine Learning**  
-> Advisor: [Polo Chau](https://poloclub.github.io/)  
+> Advisor: Duen Horn (Polo) Chau
 > Fall 2019 to Present
 
 ---
@@ -35,19 +37,14 @@ redirect_from:
 
 ---
 
-# Work experience
+# Research Experience
 
-- Summer 2015: Research Assistant
+### Los Alamos National Laboratory
 
-  - Github University
-  - Duties included: Tagging issues
-  - Supervisor: Professor Git
-
-- Fall 2015: Research Assistant
-
-  - Github University
-  - Duties included: Merging pull requests
-  - Supervisor: Professor Hub
+> **Graduate Research Assistant**  
+> Los Alamos, New Mexico, Summer 2018
+>
+> > Developed machine learning data analysis models and visualization dashboards for facility characterization, and spent fuel measurement using disparate stream data fusion.
 
 # Skills
 
