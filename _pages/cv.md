@@ -12,23 +12,23 @@ redirect_from:
 # Education
 
 > **Georiga Institute of Technology**  
-> _PhD in Machine Learning_
-> Advisor: Duen Horn (Polo) Chau  
-> Fall 2019 to Present
+> _PhD in Machine Learning_  
+> Fall 2019 to Present  
+> Advisor: Duen Horn (Polo) Chau
 
 > **Imperial College London**  
 > _MSc in Computing with Specialism in Machine Learning_  
+> Fall 2018 to Fall 2019  
 > Overall Result: Merit  
 > Thesis: Comparison of Syntactic and Semantic Representations of Programs in Neural Embeddings  
-> Advisor: Herbert Wiklicky  
-> Fall 2018 to Fall 2019
+> Advisor: Herbert Wiklicky
 
 > **Univeristy of California, Berkeley**  
-> _BA in Computer Science and Physics_
+> _BA in Computer Science and Physics_  
+> Fall 2014 to Fall 2018  
 > Overall GPA: 3.63  
 > Physics GPA: 3.59  
-> CS GPA: 3.87  
-> Fall 2014 to Fall 2018
+> CS GPA: 3.87
 
 ---
 
