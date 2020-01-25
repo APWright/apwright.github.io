@@ -52,8 +52,7 @@ redirect_from:
 > **_CITRIS and the Banatao Institute_**  
 > Undergraduate Reasearch Assistant
 > Berkeley, California, Summer 2017 to Fall 2017  
-> Lead creation of novel photogrammetry pipeline for Phoebe A Hearst Museum of Anthropology in
-> collaboration with the CITRIS Pacific Research Platform.
+> Lead creation of novel photogrammetry pipeline for Phoebe A Hearst Museum of Anthropology in collaboration with the CITRIS Pacific Research Platform.
 
 # Honors and Awards
 
