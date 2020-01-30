@@ -1,0 +1,33 @@
+- name: Polo Chau
+  position: Associate Professor
+  group: School of Computational Science and Engineering
+  institution: Georgia Institute of Technology
+  location: Atlanta, GA, USA
+  phd: true
+  website: "cc.gatech.edu/~dchau/"
+  url: "https://cc.gatech.edu/~dchau/"
+
+- name: Karen Miller
+  position: Researcher
+  group: Nuclear Engineering and Nonproliferation
+  institution: Los Alamos National Laboratory
+  location: Los Alamos, NA, USA
+  phd: true
+
+- name: Bethany Goldblum
+  position: Researcher
+  group: Nuclear Engineering
+  institution: University of California, Berkeley
+  location: Berkeley, CA, USA
+  phd: true
+  website: "nuc.berkeley.edu/people/bethany-goldblum/"
+  url: "https://nuc.berkeley.edu/people/bethany-goldblum/"
+
+- name: Christopher R. Hoffman
+  position: Associate Director of Research IT
+  group: Research IT
+  institution: University of California, Berkeley
+  location: Berkeley, CA, USA
+  phd: true
+  website: "research-it.berkeley.edu/people/christopher-r-hoffman"
+  url: "https://research-it.berkeley.edu/people/christopher-r-hoffman"

@@ -1,0 +1,15 @@
+- name: "Georgia Tech President's Fellowship"
+  description: For "exemplary levels of scholarship and innovation"
+  year: 2019, 2020
+
+- name: "Oak Ridge Institute of Science Education Fellowship"
+  description: ""
+  year: 2019, 2020
+
+- name: "U.S. Department of Energy Network Science and Nuclear Nonproliferation Challenge 1st Prize"
+  description: For novel deep recurrent neural network architectures to infer facility operations.
+  year: 2017
+
+- name: "Pioneers in Engineering Outstanding Mentor Award"
+  description: For dedication to my students and enthusiasm in teaching
+  year: 2016

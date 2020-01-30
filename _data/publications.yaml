@@ -1,0 +1,120 @@
+- id: recast
+  title: "RECAST: Interactive Auditing of Automatic Toxicity Detection Models"
+  authors:
+    - Austin P. Wright
+    - Omar Shaikh
+    - Haekyu Park
+    - Will Epperson
+    - Muhammed Ahmed
+    - Stephane Pinel
+    - Diyi Yang
+    - Duen Horng (Polo) Chau
+  venue: arXiv:2001.01819
+  year: 2020
+  url: /papers/recast
+  pdf: https://arxiv.org/pdf/2001.01819.pdf
+  type: arxiv
+  feature-title: RECAST
+  feature-description: Interactive Auditing of Automatic Toxicity Detection Models
+  featured: true
+  selected: true
+  image: /images/featured/recast.png
+  bibtex: |-
+
+    @article{wright2020recast,
+    title={RECAST: Interactive Auditing of Automatic Toxicity Detection Models},
+    author={Austin P. Wright and Omar Shaikh and Haekyu Park and Will Epperson and Muhammed Ahmed and Stephane Pinel and Diyi Yang and Duen Horng (Polo) Chau},
+    year={2020},
+    eprint={2001.01819},
+    archivePrefix={arXiv},
+    primaryClass={cs.CL}
+    }
+
+- id: nuclear-network
+  title: "The nuclear network: multiplex network analysis for interconnected systems"
+  authors:
+    - Bethany L. Goldblum
+    - Andrew W. Reddie
+    - Thomas C. Hickey
+    - James E. Bevins
+    - Sarah Laderman
+    - Nathaniel Mahowald
+    - Austin P. Wright
+    - Elie Katzenson
+    - Yara Mubarak
+  venue: "Applied Network Science volume 4, Article number: 36 (2019)"
+  year: 2019
+  url: /papers/nuclear-network
+  pdf: https://link.springer.com/content/pdf/10.1007/s41109-019-0141-4.pdf
+  type: journal
+  feature-title: Nuclear Network
+  feature-description: Multiplex Network Analysis for Interconnected Systems
+  featured: true
+  selected: true
+  image: /images/featured/nuclear-network.png
+  bibtex: |-
+
+    @article{goldblum2019nuclear,
+    title={The nuclear network: multiplex network analysis for interconnected systems},
+    author={Goldblum, Bethany L and Reddie, Andrew W and Hickey, Thomas C and Bevins, James E and Laderman, Sarah and Mahowald, Nathaniel and Wright, Austin P and Katzenson, Elie and Mubarak, Yara},
+    journal={Applied Network Science},
+    volume={4},
+    number={1},
+    pages={36},
+    year={2019},
+    publisher={Springer}
+    }
+
+- id: smart-monitoring
+  title: "Smart Monitoring of Nuclear Facilities: Implementation Concepts and Development Status"
+  authors:
+    - Paul Michael Mendoza
+    - Karen Ann Miller
+    - Emily Michele Casleton
+    - Janette Rose Frigo
+    - Rosalyn Cherie Rael
+    - Kendra Lu Van Buren
+    - Jonathan Lee Woodring
+    - Vlad Henzl
+    - Austin P. Wright
+  venue: "LA-UR-19-26663"
+  year: 2019
+  url: /papers/smart-monitoring
+  pdf: https://permalink.lanl.gov/object/tr?what=info:lanl-repo/lareport/LA-UR-19-26663
+  bibtex: |-
+
+    @misc{mendoza2019monitoring,
+    title={Smart Monitoring of Nuclear Facilities: Implementation Concepts and Development Status},
+    author={Paul Michael Mendoza, Karen Ann Miller, Emily Michele Casleton, Janette Rose Frigo, Rosalyn Cherie Rael, Kendra Lu Van Buren, Jonathan Lee Woodring, Vlad Henzl, Austin Peter Wright},
+    year={2019},
+    publisher={Los Alamos National Lab.}
+    }
+
+- id: data-integration
+  title: "Disparate Data Integration for Advanced Facility Monitoring"
+  authors:
+    - Karen Ann Miller
+    - Kendra Lu Van Buren
+    - Janette Rose Frigo
+    - Max Zeyen
+    - Joshua P. Sackos
+    - Paul Michael Mendoza
+    - Austin P. Wright
+  venue: "IAEA Symposium on International Safeguards"
+  year: 2018
+  url: /papers/data-integration
+  pdf: https://media.superevent.com/documents/20181030/74ca5cfd51f7b16bfd88bf3288b3bc86/id234_miller_paper.pdf
+  feature-title: IAEA International Safeguards
+  feature-description: Disparate Data Integration for Advanced Facility Monitoring
+  featured: true
+  selected: true
+  image: /images/featured/data-integration.png
+  bibtex: |-
+
+    @article{millerdisparate,
+    title={DISPARATE DATA INTEGRATION FOR ADVANCED FACILITY MONITORING},
+    author={MILLER, KAREN A and VAN BUREN, KENDRA L and FRIGO, JANETTE R and ZEYEN, MAX and SACKOS, JOSHUA P and MENDOZA, PAUL M and WRIGHT, AUSTIN P}
+    author={Goldblum, Bethany L and Reddie, Andrew W and Hickey, Thomas C and Bevins, James E and Laderman, Sarah and Mahowald, Nathaniel and Wright, Austin P and Katzenson, Elie and Mubarak, Yara},
+    journal={IAEA Symposium on International Safeguards},
+    year={2018},
+    }

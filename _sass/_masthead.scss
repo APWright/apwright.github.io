@@ -1,53 +1,82 @@
-/* ==========================================================================
-   MASTHEAD
-   ========================================================================== */
+// Masthead
+//
+// Super small header above the content for site name and short description.
 
 .masthead {
-  position: relative;
-  border-bottom: 1px solid $border-color;
-  -webkit-animation: intro 0.3s both;
-          animation: intro 0.3s both;
-  -webkit-animation-delay: 0.15s;
-          animation-delay: 0.15s;
-  z-index: 20;
+  padding-top: 1rem;
+  padding-bottom: 0rem;
+  margin-bottom: 0rem;
 
-  &__inner-wrap {
-    @include container;
-    @include clearfix;
-    padding: 1em 1em 1em;
-    font-family: $global-font-family;
-
-    @include breakpoint($x-large) {
-      max-width: $x-large;
-    }
-
-    nav {
-      z-index: 10;
-    }
-
-    a {
-      text-decoration: none;
-    }
+  @media (max-width: 41em) {
+    padding-left: 1em;
+    padding-right: 1em,;
+    /*text-align: center;*/
   }
 }
 
-.masthead__menu {
+.masthead-title {
+  margin-top: 0;
+  margin-bottom: 0;
+  /*color: #505050;*/
+  color: #303030;
+  font-weight: 500 !important;
+ 
+  a {
+    /*color: #505050;*/
+    color: #303030;
+  }
 
-  ul {
-    margin: 0;
-    padding: 0;
-    clear: both;
-    list-style-type: none;
+  a:hover{
+    text-decoration: none;
+	// color: #505050;  /* Fallback: assume this color ON TOP of image */
+	// background: url(images/title.jpg) no-repeat;
+ //    -webkit-background-clip: text;
+ //    -webkit-text-fill-color: transparent;
+  }
+
+  small {
+    font-size: 60%;
+    font-weight: 400;
+    color: #c0c0c0;
+    letter-spacing: 0;
   }
 }
 
-.masthead__menu-item {
-  display: block;
-  list-style-type: none;
-  white-space: nowrap;
+.mastheadspacer{
+	display: none;
+	@media (max-width: 41em) {
+		display:block;
+  		}
+}
 
-  &--lg {
-    padding-right: 2em;
-    font-weight: 700;
-  }
+nav {
+  border-bottom: 1px #ECECEC solid;
+  margin-bottom: 3em;
+  padding-bottom: 1em;
+  padding-top: 0.25em;
+
+
+  @media (max-width: 41em) {
+  padding-left: 1em;
+  padding-right: 1em,;
+/*  text-align: center;
+*/  }
+
+}
+
+.nav {
+  max-width: 35em;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 500;
+}
+
+.masthead-slash{
+  display: none;
+  color: #2196F3;
+  font-size: 75%;
+}
+
+@media (min-width: 41em) {
+  .masthead-slash{display: inline}
 }
