@@ -77,6 +77,12 @@ My research in **<span class="cv-ai">Civic AI</span>** aims to solve problems in
 {% include publication.html pub=pub selectedBoolForBibtex=selectedBoolForBibtex %}
 {% endfor %}
 
+## Press
+
+{% for press in site.data.press %} 
+{% include press.html press=press %}
+{% endfor %}
+
 ## Talks
 
 {% assign talktitles = site.data.talks | group_by:"title" %}
