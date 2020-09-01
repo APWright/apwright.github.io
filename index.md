@@ -3,7 +3,12 @@ layout: home
 title: Home
 ---
 
-<img class="title-logo" src="/images/apw_logo.svg"> 
+<div>
+<a href="https://austinpwright.com">
+<img class="title-logo" src="/images/apw_logo.svg">
+</a>
+</div>
+
 <h1 class="intro-title">Austin P. Wright</h1>
 
 <!-- {% include nav.html %} -->
@@ -15,10 +20,12 @@ title: Home
 		I’m a Ph.D. student in the [College of Computing][coc] at [Georgia Tech][gt] advised by [Polo Chau][poloclub]. 
 		</p>
 		<p markdown="1">
-		My research in **Civic AI** aims to solve problems intersecting machine learning, human-computer interaction, and public policy, by using a strong principled basis in both mathematical and human centered principles to actualize the potential of new technologies for **social good** with _usability_, _interpretability_, and _fairness_.
+  My research in **Civic AI** aims to solve problems intersecting machine learning, human-computer interaction, and public policy, by using a strong principled basis in both mathematical and human centered principles to actualize the potential of new technologies for **social good** with _usability_, _interpretability_, and _fairness_.
 		</p>
 		<p markdown="1">
-		This work has been used by many public institutions including:  
+		This work has suported the missions of many public institutions including:  
+		<img class="intro-logo" style="width: 100px; padding-bottom: 10px;" src="/images/jpl.svg">
+		<img class="intro-logo" style="width: 100px; padding-bottom: 10px;" src="/images/nasa.svg">
 		<img class="intro-logo" style="width: 100px; padding-bottom: 10px;" src="/images/cdc.svg">
 		<img class="intro-logo" style="width: 150px; padding-bottom: 10px;" src="/images/lanl.svg">
 		<img class="intro-logo" style="width: 150px; padding-bottom: 30px;" src="/images/nssc.png">

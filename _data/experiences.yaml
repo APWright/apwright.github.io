@@ -1,16 +1,14 @@
-- institution: Georgia Institute of Technology
-  location: "Atlanta, GA"
-  position: Graduate Research Assistant
-  group: School of Computational Science and Engineering
-  year: "Fall 2019 —"
-  year-extra: "Present"
+- institution: NASA Jet Propulsion Laboratory
+  location: "Remote"
+  position: "Intern"
+  group: "Data Visualization"
+  year: "Summer 2020"
   mentors:
-    - Duen Horng (Polo) Chau
-  advisor: true
-  description: "Member of the Polo Club of Data Science where we bridge and innovate at the intersection of data mining and human-computer interaction to synthesize scalable, interactive, and interpretable tools that amplify human’s ability to understand and interact with big data."
-  institution-url: http://gatech.edu
-  group-url: http://cse.gatech.edu
-  type: academic
+    - Scott Davidoff
+  description: "Joint work between NASA JPL, Caltech, and Art Center creating interactive data visualizations for current scientific research. Prototype presented to lab leadership and spuring ongoing follow on work at JPL."
+  institution-url: https://www.jpl.nasa.gov/
+  group-url: http://datavis.caltech.edu/
+  type: gov
 
 - institution: Centers for Disease Control and Prevention
   location: "Chamblee, GA"
@@ -24,6 +22,20 @@
   institution-url: https://www.cdc.gov
   group-url: https://www.cdc.gov/injury/index.html
   type: gov
+
+- institution: Georgia Institute of Technology
+  location: "Atlanta, GA"
+  position: Graduate Research Assistant
+  group: School of Computational Science and Engineering
+  year: "Fall 2019 —"
+  year-extra: "Present"
+  mentors:
+    - Duen Horng (Polo) Chau
+  advisor: true
+  description: "Member of the Polo Club of Data Science where we bridge and innovate at the intersection of data mining and human-computer interaction to synthesize scalable, interactive, and interpretable tools that amplify human’s ability to understand and interact with big data."
+  institution-url: http://gatech.edu
+  group-url: http://cse.gatech.edu
+  type: academic
 
 - institution: Los Alamos National Laboratory
   location: "Los Alamos, NM"

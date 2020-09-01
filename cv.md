@@ -6,7 +6,11 @@ jsarr:
   - js/scripts.js
 ---
 
+<div>
+<a href="https://austinpwright.com">
 <img class="title-logo" src="/images/apw_logo.svg">
+</a>
+</div>
 
 <h1><a style="color: #313131; font-weight: 500; font-size: 1.25em" href="https://austinpwright.com">Austin P. Wright</a></h1>
 
@@ -79,7 +83,7 @@ My research in **<span class="cv-ai">Civic AI</span>** aims to solve problems in
 
 ## Press
 
-{% for press in site.data.press %} 
+{% for press in site.data.press %}
 {% include press.html press=press %}
 {% endfor %}
 
@@ -91,11 +95,6 @@ My research in **<span class="cv-ai">Civic AI</span>** aims to solve problems in
 {% endfor %}
 
 <!--
-## Press
-
-{% for press in site.data.press %}
-{% include press.html press=press %}
-{% endfor %}
 
 ## Teaching
 
@@ -167,6 +166,5 @@ Atlanta, GA 30308
 [cse]: http://cse.gatech.edu "GT Computational Science and Engineering"
 [coc]: http://www.cc.gatech.edu "GT College of Computing"
 [polo]: http://www.cc.gatech.edu/~dchau/ "Polo Chau"
-[msr-hci]: https://www.microsoft.com/en-us/research/group/human-computer-interaction/ "HCI@MSR"
 [twitter]: https:/www.twitter.com/austin_p_wright "@austin_p_wright"
 [github]: https:/www.github.com/APWright "github.com/APWright"
