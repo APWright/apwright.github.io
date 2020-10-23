@@ -13,7 +13,9 @@
   institution: Centers for Disease Control and Prevention
   location: Atalnta, GA, USA
   phd: true
-
+  website: "www.cdc.gov/injury/pressroom/fullbios_subjectmatterexperts/bio_StevenSumner"
+  url: "https://www.cdc.gov/injury/pressroom/fullbios_subjectmatterexperts/bio_StevenSumner.html"
+  
 - name: Scott Davidoff
   position: Human-Computer Interaction Researcher
   group: Human Interfaces Group
