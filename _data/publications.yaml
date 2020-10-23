@@ -1,3 +1,31 @@
+- id: peoplemap
+  title: "Mapping Researchers with PeopleMap"
+  authors:
+    - Jon Saad-Falcon
+    - Omar Shaikh
+    - Zijie J. Wang
+    - Austin P. Wright
+    - Sasha Richardson
+    - Duen Horng (Polo) Chau
+  venue: IEEE Visualization 2020
+  award: Honorable Mention Best Poster Research
+  year: 2020
+  pdf: https://arxiv.org/pdf/2009.00091.pdf
+  type: arxiv
+  featured: false
+  selected: false
+  bibtex: |-
+
+    @misc{saadfalcon2020mapping,
+      title={Mapping Researchers with PeopleMap}, 
+      author={Jon Saad-Falcon and Omar Shaikh and Zijie J. Wang and Austin P. Wright and Sasha Richardson and Duen Horng Chau},
+      year={2020},
+      eprint={2009.00091},
+      archivePrefix={arXiv},
+      primaryClass={cs.DL}
+}
+
+
 - id: recast
   title: "RECAST: Interactive Auditing of Automatic Toxicity Detection Models"
   authors:
