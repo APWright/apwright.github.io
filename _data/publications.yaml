@@ -17,13 +17,13 @@
   bibtex: |-
 
     @misc{saadfalcon2020mapping,
-      title={Mapping Researchers with PeopleMap}, 
-      author={Jon Saad-Falcon and Omar Shaikh and Zijie J. Wang and Austin P. Wright and Sasha Richardson and Duen Horng Chau},
-      year={2020},
-      eprint={2009.00091},
-      archivePrefix={arXiv},
-      primaryClass={cs.DL}
-}
+    title={Mapping Researchers with PeopleMap}, 
+    author={Jon Saad-Falcon and Omar Shaikh and Zijie J. Wang and Austin P. Wright and Sasha Richardson and Duen Horng Chau},
+    year={2020},
+    eprint={2009.00091},
+    archivePrefix={arXiv},
+    primaryClass={cs.DL}
+    }
 
 
 - id: recast
