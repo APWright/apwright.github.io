@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 - id: guidelines
-=======
-- id: survey
->>>>>>> 0fa881eccca93cbb2bdc42439ca701c111e44f41
   title: "A Comparative Analysis of Industry Human-AI Interaction Guidelines"
   authors:
     - Austin P. Wright
@@ -10,7 +6,6 @@
     - Haekyu Park
     - Grace Guo
     - Fabian Sperrle
-<<<<<<< HEAD
     - Mennatallah El-Assady
     - Alex Endert
     - Daniel Keim
@@ -35,28 +30,7 @@
       archivePrefix={arXiv},
       primaryClass={cs.HC}
     }
-=======
-    - Mennatallah El-Assaday
-    - Alex Endert
-    - Daniel Keim
-    - Duen Horng (Polo) Chau
-  venue: IEEE Visualization 2020, Workshop on Trust and Expertise in Visual Analytics 
-  year: 2020
-  pdf: https://arxiv.org/pdf/2010.11761.pdf
-  type: arxiv
-  featured: false
-  selected: false
-  bibtex: |-
 
-    @misc{wright2020comparative,
-    title={A Comparative Analysis of Industry Human-AI Interaction Guidelines}, 
-    author={Austin P. Wright and Zijie J. Wang and Haekyu Park and Grace Guo and Fabian Sperrle and Mennatallah El-Assady and Alex Endert and Daniel Keim and Duen Horng Chau},
-    year={2020},
-    eprint={2010.11761},
-    archivePrefix={arXiv},
-    primaryClass={cs.HC}
-    }
-    
 - id: peoplemap
   title: "Mapping Researchers with PeopleMap"
   authors:
@@ -83,8 +57,6 @@
     archivePrefix={arXiv},
     primaryClass={cs.DL}
     }
-
->>>>>>> 0fa881eccca93cbb2bdc42439ca701c111e44f41
 
 - id: recast
   title: "RECAST: Interactive Auditing of Automatic Toxicity Detection Models"
