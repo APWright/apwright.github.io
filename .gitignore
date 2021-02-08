@@ -1,3 +1,4 @@
 _site/
 .ionide/
 .jekyll-cache/
+.DS_Store

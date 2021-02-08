@@ -1,3 +1,8 @@
+- id: guidelines
+  figure: /images/papers/20-guidelines-survey.png
+  abstract: |
+    With the recent release of AI interaction guidelines from Apple, Google, and Microsoft, there is clearly interest in understanding the best practices in human-AI interaction. However, industry standards are not determined by a single company, but rather by the synthesis of knowledge from the whole community. We have surveyed all of the design guidelines from each of these major companies and developed a single, unified structure of guidelines, giving developers a centralized reference. We have then used this framework to compare each of the surveyed companies to find differences in areas of emphasis. Finally, we encourage people to contribute additional guidelines from other companies, academia, or individuals, to provide an open and extensible reference of AI design guidelines at [https://ai-open-guidelines.readthedocs.io/](https://ai-open-guidelines.readthedocs.io/).
+
 - id: recast
   figure: /images/papers/20-recast-arxiv.png
   caption: |
