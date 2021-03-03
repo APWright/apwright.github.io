@@ -1,3 +1,25 @@
+- id: cscw-recast
+  title: "RECAST: Enabling User Recourse and Interpretability of Toxicity Detection Models with Interactive Visualization"
+  authors:
+    - Austin P. Wright
+    - Omar Shaikh
+    - Haekyu Park
+    - Will Epperson
+    - Muhammed Ahmed
+    - Stephane Pinel
+    - Diyi Yang
+    - Duen Horng (Polo) Chau
+  venue: 24th ACM Conference on Computer-Supported Cooperative Work & Social Computing
+  year: 2021
+  url: https://arxiv.org/abs/2102.04427
+  pdf: https://arxiv.org/pdf/2102.04427
+  type: arxiv
+  feature-title: RECAST
+  feature-description: Enabling User Recourse and Interpretability of Toxicity Detection Models with Interactive Visualization
+  featured: true
+  selected: true
+  image: /images/papers/21-recast-cscw.png
+
 - id: guidelines
   title: "A Comparative Analysis of Industry Human-AI Interaction Guidelines"
   authors:
@@ -71,14 +93,14 @@
     - Duen Horng (Polo) Chau
   venue: The eighth International Workshop of Chinese CHI
   year: 2020
-  url: /papers/recast
+  url: https://arxiv.org/abs/2001.01819
   pdf: https://arxiv.org/pdf/2001.01819.pdf
   type: arxiv
   feature-title: RECAST
   feature-description: Interactive Auditing of Automatic Toxicity Detection Models
-  featured: true
-  selected: true
-  image: /images/featured/recast.png
+  featured: false
+  selected: false
+  image: /images/papers/recast.png
   bibtex: |-
 
     @article{wright2020recast,
@@ -111,7 +133,7 @@
   feature-description: Multiplex Network Analysis for Interconnected Systems
   featured: true
   selected: true
-  image: /images/featured/nuclear-network.png
+  image: /images/papers/nuclear-network.png
   bibtex: |-
 
     @article{goldblum2019nuclear,
@@ -167,7 +189,7 @@
   feature-description: Disparate Data Integration for Advanced Facility Monitoring
   featured: false
   selected: false
-  image: /images/featured/data-integration.png
+  image: /images/papers/data-integration.png
   bibtex: |-
 
     @article{millerdisparate,
