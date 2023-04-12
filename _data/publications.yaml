@@ -1,3 +1,117 @@
+- id: iui-ishmap
+  title: "Lessons from the Development of an Anomaly Detection Interface on the Mars Perseverance Rover using the ISHMAP Framework"
+  authors:
+    - Austin P. Wright
+    - Peter Nemere
+    - Adrian Galvin
+    - Duen Horng (Polo) Chau
+    - Scott Davidoff
+
+  venue: Proceedings of the 28th International Conference on Intelligent User Interfaces
+  year: 2023
+  url: https://dl.acm.org/doi/abs/10.1145/3581641.3584036
+  type: journal
+  feature-title: Anomaly Detection on Mars
+  feature-description: Developing Novel Design Frameworks for Scientific Anomaly Detection and Case Study on Mars Rover
+  featured: true
+  selected: true
+  image: /images/papers/23-iui-ishmap.jpg
+  bibtex: |-
+    @inproceedings{wright2023lessons,
+      title={Lessons from the Development of an Anomaly Detection Interface on the Mars Perseverance Rover using the ISHMAP Framework},
+      author={Wright, Austin P and Nemere, Peter and Galvin, Adrian and Chau, Duen Horng and Davidoff, Scott},
+      booktitle={Proceedings of the 28th International Conference on Intelligent User Interfaces},
+      pages={91--105},
+      year={2023}
+    }
+
+- id: science-alteration
+  title: "Alteration history of Séítah formation rocks inferred by PIXL x-ray fluorescence, x-ray diffraction, and multispectral imaging on Mars"
+  authors:
+    - Michael M Tice
+    - Joel A Hurowitz
+    - Abigail C Allwood
+    - Michael WM Jones
+    - Brendan J Orenstein
+    - Scott Davidoff
+    - Austin P. Wright
+    - et. al
+
+  venue: Science Advances
+  year: 2022
+  url: https://www.science.org/doi/abs/10.1126/sciadv.abp9084
+  type: journal
+  featured: false
+  selected: false
+  bibtex: |-
+    @article{tice2022alteration,
+      title={Alteration history of S{\'e}{\'\i}tah formation rocks inferred by PIXL x-ray fluorescence, x-ray diffraction, and multispectral imaging on Mars},
+      author={Tice, Michael M and Hurowitz, Joel A and Allwood, Abigail C and Jones, Michael WM and Orenstein, Brendan J and Davidoff, Scott and Wright, Austin P and Pedersen, David AK and Henneke, Jesper and Tosca, Nicholas J and others},
+      journal={Science Advances},
+      volume={8},
+      number={47},
+      pages={eabp9084},
+      year={2022},
+      publisher={American Association for the Advancement of Science}
+    }
+
+- id: neurocartography
+  title: "Neurocartography: Scalable automatic visual summarization of concepts in deep neural networks"
+  authors:
+    - Haekyu Park
+    - Nilaksh Das
+    - Rahul Duggal
+    - Austin P Wright
+    - Omar Shaikh
+    - Fred Hohman
+    - Duen Horng (Polo) Chau
+
+  venue: IEEE Transactions on Visualization and Computer Graphics
+  year: 2021
+  url: https://ieeexplore.ieee.org/abstract/document/9552879/
+  type: arxiv
+  featured: false
+  selected: false
+  bibtex: |-
+    @article{wright2021detection,
+      title={Detection of emerging drugs involved in overdose via diachronic word embeddings of substances discussed on social media},
+      author={Wright, Austin P and Jones, Christopher M and Chau, Duen Horng and Gladden, R Matthew and Sumner, Steven A},
+      journal={Journal of Biomedical Informatics},
+      volume={119},
+      pages={103824},
+      year={2021},
+      publisher={Academic Press}
+    }
+
+- id: jbi-trends
+  title: "Detection of emerging drugs involved in overdose via diachronic word embeddings of substances discussed on social media"
+  authors:
+    - Austin P. Wright
+    - Christopher M Jones
+    - Duen Horng (Polo) Chau
+    - R Matthew Gladden
+    - Steven A Sumner
+
+  venue: Journal of Biomedical Informatics
+  year: 2021
+  url: https://www.sciencedirect.com/science/article/pii/S1532046421001532
+  type: journal
+  feature-title: Emerging Trends
+  feature-description: Quantifying Emerging Trends in the Opioid Epidemic with Natural Language Processing on Social Medai Data
+  featured: true
+  selected: true
+  image: /images/papers/21-emerging-trends.jpg
+  bibtex: |-
+    @article{wright2021detection,
+      title={Detection of emerging drugs involved in overdose via diachronic word embeddings of substances discussed on social media},
+      author={Wright, Austin P and Jones, Christopher M and Chau, Duen Horng and Gladden, R Matthew and Sumner, Steven A},
+      journal={Journal of Biomedical Informatics},
+      volume={119},
+      pages={103824},
+      year={2021},
+      publisher={Academic Press}
+    }
+
 - id: cscw-recast
   title: "RECAST: Enabling User Recourse and Interpretability of Toxicity Detection Models with Interactive Visualization"
   authors:
@@ -16,9 +130,28 @@
   type: arxiv
   feature-title: RECAST
   feature-description: Enabling User Recourse and Interpretability of Toxicity Detection Models with Interactive Visualization
-  featured: true
-  selected: true
+  featured: false
+  selected: false
   image: /images/papers/21-recast-cscw.png
+  bibtex: |-
+    @article{10.1145/3449280,
+      author = {Wright, Austin P. and Shaikh, Omar and Park, Haekyu and Epperson, Will and Ahmed, Muhammed and Pinel, Stephane and Chau, Duen Horng (Polo) and Yang, Diyi},
+      title = {RECAST: Enabling User Recourse and Interpretability of Toxicity Detection Models with Interactive Visualization},
+      year = {2021},
+      issue_date = {April 2021},
+      publisher = {Association for Computing Machinery},
+      address = {New York, NY, USA},
+      volume = {5},
+      number = {CSCW1},
+      url = {https://doi.org/10.1145/3449280},
+      doi = {10.1145/3449280},
+      abstract = {With the widespread use of toxic language online, platforms are increasingly using automated systems that leverage advances in natural language processing to automatically flag and remove toxic comments. However, most automated systems, when detecting and moderating toxic language, do not provide feedback to their users, let alone provide an avenue of recourse for these users to make actionable changes. We present our work, RECAST, an interactive, open-sourced web tool for visualizing these models' toxic predictions, while providing alternative suggestions for flagged toxic language. Our work also provides users with a new path of recourse when using these automated moderation tools. RECAST highlights text responsible for classifying toxicity, and allows users to interactively substitute potentially toxic phrases with neutral alternatives. We examined the effect of RECAST via two large-scale user evaluations, and found that RECAST was highly effective at helping users reduce toxicity as detected through the model. Users also gained a stronger understanding of the underlying toxicity criterion used by black-box models, enabling transparency and recourse. In addition, we found that when users focus on optimizing language for these models instead of their own judgement (which is the implied incentive and goal of deploying automated models), these models cease to be effective classifiers of toxicity compared to human annotations. This opens a discussion for how toxicity detection models work and should work, and their effect on the future of online discourse.},
+      journal = {Proc. ACM Hum.-Comput. Interact.},
+      month = {apr},
+      articleno = {181},
+      numpages = {26},
+      keywords = {toxicity detection, intervention, natural language processing, content moderation, interactive visualization}
+    }
 
 - id: guidelines
   title: "A Comparative Analysis of Industry Human-AI Interaction Guidelines"
@@ -131,8 +264,8 @@
   type: journal
   feature-title: Nuclear Network
   feature-description: Multiplex Network Analysis for Interconnected Systems
-  featured: true
-  selected: true
+  featured: false
+  selected: false
   image: /images/papers/nuclear-network.png
   bibtex: |-
 

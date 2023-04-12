@@ -2,10 +2,11 @@
   location: "Remote"
   position: "Intern"
   group: "Data Visualization"
-  year: "Summer 2020"
+  year: "Summer 2020 —"
+  year-extra: "Present"
   mentors:
     - Scott Davidoff
-  description: "Joint work between NASA JPL, Caltech, and Art Center creating interactive data visualizations for current scientific research. Prototype presented to lab leadership and spuring ongoing follow on work at JPL."
+  description: "Joint work between NASA JPL, Caltech, and Art Center creating interactive data visualizations for current scientific research."
   institution-url: https://www.jpl.nasa.gov/
   group-url: http://datavis.caltech.edu/
   type: gov
