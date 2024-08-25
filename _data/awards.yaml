@@ -1,3 +1,11 @@
+- name: "KDD 2024 Best Paper Runner Up (Applied Data Science Track)"
+  description: For paper 'Nested Fusion: A Method for Learning High Resolution Latent Structure of Multi-Scale Measurement Data on Mars'
+  year: 2024
+
+- name: "NASA Space Act Award"
+  description: "For the development of a significant scientific or technical contribution, PIXLISE + PIQUANT, spectroscopy analysis software NPO-52676-1, that has been determined to be of value in the conduct of an aeronautical or space activity of NASA."
+  year: 2023
+
 - name: "Centers for Disease Control Excellence in Quantitative Sciences Award"
   description: "Internal CDC honor in recognition of ongoing work detecting emerging trends on social media"
   year: 2022
