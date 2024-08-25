@@ -2,8 +2,7 @@
   location: "Remote"
   position: "Intern"
   group: "Data Visualization"
-  year: "Summer 2020 —"
-  year-extra: "Present"
+  year: "Summer 2020 — Winter 2023"
   mentors:
     - Scott Davidoff
   description: "Joint work between NASA JPL, Caltech, and Art Center creating interactive data visualizations for current scientific research."
@@ -15,8 +14,7 @@
   location: "Chamblee, GA"
   position: ORISE Fellow
   group: "National Center for Injury Prevention and Control"
-  year: "Fall 2019 —"
-  year-extra: "Present"
+  year: "Fall 2019 — Fall 2024"
   mentors:
     - Steve Sumner
   description: "Introduced natural language processing and data visualization tools for detecting emerging trends in the opiod epidemic."
