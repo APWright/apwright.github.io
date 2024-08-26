@@ -23,7 +23,7 @@ title: Home
   My research in **Scientific Human-Cenetered AI** aims to solve problems intersecting machine learning, human-computer interaction, and scientific computing, by using a strong principled basis in both mathematical and human centered principles to actualize the potential of new technologies by deep collaboration with scientists developing tools with _usability_, _interpretability_, and _real scientiifc impact_.
 		</p>
 		<p markdown="1">
-		This work has suported the missions of many public institutions including:  
+		This work has suported the missions of many world class institutions including:  
 		<img class="intro-logo" style="width: 100px; padding-bottom: 10px;" src="/images/jpl.svg">
 		<img class="intro-logo" style="width: 100px; padding-bottom: 10px;" src="/images/nasa.svg">
 		<img class="intro-logo" style="width: 100px; padding-bottom: 10px;" src="/images/cdc.svg">
