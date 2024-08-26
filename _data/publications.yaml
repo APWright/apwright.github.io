@@ -1,3 +1,154 @@
+- id: nested-fusion
+  title: "Nested Fusion: A Method for Learning High Resolution Latent Structure of Multi-Scale Measurement Data on Mars"
+  authors:
+    - Austin P. Wright
+    - Scott Davidoff
+    - Duen Horng (Polo) Chau
+
+  venue: Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining
+  award: Best Paper Runner-Up (Applied Data Science Track)
+  year: 2024
+  url: https://dl.acm.org/doi/10.1145/3637528.3671596
+  type: journal
+  bibtex: |-
+    @inproceedings{10.1145/3637528.3671596,
+      author = {Wright, Austin P. and Davidoff, Scott and Chau, Duen Horng},
+      title = {Nested Fusion: A Method for Learning High Resolution Latent Structure of Multi-Scale Measurement Data on Mars},
+      year = {2024},
+      isbn = {9798400704901},
+      publisher = {Association for Computing Machinery},
+      address = {New York, NY, USA},
+      url = {https://doi.org/10.1145/3637528.3671596},
+      doi = {10.1145/3637528.3671596},
+      booktitle = {Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining},
+      pages = {5969–5978},
+      numpages = {10},
+      keywords = {data visualization, dimensionality reduction, latent representation learning, planetary science},
+      location = {Barcelona, Spain},
+      series = {KDD '24}
+    }
+
+- id: situ-mapping
+  title: "In-situ mapping of monocrystalline regions on Mars"
+  authors:
+    - Brendan J Orenstein
+    - Michael WM Jones
+    - David T Flannery
+    - Austin P Wright
+    - Scott Davidoff
+    - Michael M Tice
+    - Luke Nothdurft
+    - Abigail C Allwood
+  
+  venue: Icarus
+  year: 2024
+  url: https://www.sciencedirect.com/science/article/pii/S0019103524002628
+  type: journal
+  bibtex: |-
+    @article{ORENSTEIN2024116202,
+      title = {In-situ mapping of monocrystalline regions on Mars},
+      journal = {Icarus},
+      volume = {420},
+      pages = {116202},
+      year = {2024},
+      issn = {0019-1035},
+      doi = {https://doi.org/10.1016/j.icarus.2024.116202},
+      url = {https://www.sciencedirect.com/science/article/pii/S0019103524002628},
+      author = {Brendan J. Orenstein and Michael W.M. Jones and David T. Flannery and Austin P. Wright and Scott Davidoff and Michael M. Tice and Luke Nothdurft and Abigail C. Allwood},
+      keywords = {Mars, Surface, Mineralogy, Spectroscopy},
+    }
+
+   
+- id: visual-learning-stable
+  title: "Interactive Visual Learning for Stable Diffusion"
+  authors:
+    - Seongmin Lee
+    - Benjamin Hoover
+    - Hendrik Strobelt
+    - Zijie J Wang
+    - ShengYun Peng
+    - Austin P. Wright
+    - Kevin Li
+    - Haekyu Park
+    - Haoyang Yang
+    - Duen Horng (Polo) Chau
+  
+
+  venue: arXiv preprint 
+  year: 2024
+  url: https://arxiv.org/abs/2404.16069
+  type: arxiv
+  bibtex: |-
+    @misc{lee2024interactivevisuallearningstable,
+      title={Interactive Visual Learning for Stable Diffusion}, 
+      author={Seongmin Lee and Benjamin Hoover and Hendrik Strobelt and Zijie J. Wang and ShengYun Peng and Austin Wright and Kevin Li and Haekyu Park and Haoyang Yang and Polo Chau},
+      year={2024},
+      eprint={2404.16069},
+      archivePrefix={arXiv},
+      primaryClass={cs.HC},
+      url={https://arxiv.org/abs/2404.16069}, 
+    }
+
+- id: concept-evo
+  title: "Concept Evolution in Deep Learning Training: A Unified Interpretation Framework and Discoveries"
+  authors:
+    - Haekyu Park
+    - Seongmin Lee
+    - Benjamin Hoover
+    - Austin P Wright
+    - Omar Shaikh
+    - Rahul Duggal
+    - Nilaksh Das
+    - Kevin Li
+    - Judy Hoffman
+    - Duen Horng Chau
+  
+  venue: Proceedings of the 32nd ACM International Conference on Information and Knowledge Management
+  year: 2023
+  url: https://dl.acm.org/doi/abs/10.1145/3583780.3614819
+  type: journal
+  bibtex: |-
+    @misc{park2023conceptevolutiondeeplearning,
+      title={Concept Evolution in Deep Learning Training: A Unified Interpretation Framework and Discoveries}, 
+      author={Haekyu Park and Seongmin Lee and Benjamin Hoover and Austin P. Wright and Omar Shaikh and Rahul Duggal and Nilaksh Das and Kevin Li and Judy Hoffman and Duen Horng Chau},
+      year={2023},
+      eprint={2203.16475},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2203.16475}, 
+    }
+
+    
+- id: diffusion-explainer
+  title: "Diffusion explainer: Visual explanation for text-to-image stable diffusion"
+  authors:
+    - Seongmin Lee
+    - Benjamin Hoover
+    - Hendrik Strobelt
+    - Zijie J Wang
+    - ShengYun Peng
+    - Austin P. Wright
+    - Kevin Li
+    - Haekyu Park
+    - Haoyang Yang
+    - Duen Horng (Polo) Chau
+  
+
+  venue: arXiv preprint 
+  year: 2023
+  url: https://arxiv.org/abs/2305.03509
+  type: arxiv
+  bibtex: |-
+    @misc{lee2023diffusionexplainervisualexplanation,
+      title={Diffusion Explainer: Visual Explanation for Text-to-image Stable Diffusion}, 
+      author={Seongmin Lee and Benjamin Hoover and Hendrik Strobelt and Zijie J. Wang and ShengYun Peng and Austin Wright and Kevin Li and Haekyu Park and Haoyang Yang and Duen Horng Chau},
+      year={2023},
+      eprint={2305.03509},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2305.03509}, 
+    }
+  
 - id: iui-ishmap
   title: "Lessons from the Development of an Anomaly Detection Interface on the Mars Perseverance Rover using the ISHMAP Framework"
   authors:
@@ -125,9 +276,9 @@
     - Duen Horng (Polo) Chau
   venue: 24th ACM Conference on Computer-Supported Cooperative Work & Social Computing
   year: 2021
-  url: https://arxiv.org/abs/2102.04427
+  url: https://dl.acm.org/doi/10.1145/3449280
   pdf: https://arxiv.org/pdf/2102.04427
-  type: arxiv
+  type: Journal
   feature-title: RECAST
   feature-description: Enabling User Recourse and Interpretability of Toxicity Detection Models with Interactive Visualization
   featured: false
