@@ -29,7 +29,6 @@ title: Home
 		<img class="intro-logo" style="width: 100px; padding-bottom: 10px;" src="/images/cdc.svg">
 		<img class="intro-logo" style="width: 150px; padding-bottom: 10px;" src="/images/lanl.svg">
 		<img class="intro-logo" style="width: 150px; padding-bottom: 30px;" src="/images/nssc.png">
-		<img class="intro-logo" style="width: 100px; padding-bottom: 10px;" src="/images/citris.png">
 		</p>
 	</div>
 
@@ -57,7 +56,7 @@ title: Home
 
 <!-- <div style="padding-top:15px;"></div> -->
 
-<hr style="margin-left: 0;">
+<!-- <hr style="margin-left: 0;">
 <div class="cover-wrapper">
 	<div class="cover-side">
 		Featured <a href="/cv#publications" style="color: #303030"><strong>Research Publications</strong></a>
@@ -72,6 +71,7 @@ title: Home
 {% endfor %}
 
 </div>
+ -->
 
 [about]: {{ site.url }}/about
 [projects]: {{ site.url }}/projects
