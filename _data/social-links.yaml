@@ -16,6 +16,15 @@
   on-cv: true
   cv-group: 1
 
+- id: scholar
+  description: "Google Scholar"
+  color: "#515151"
+  class: "fa fa-graduation-cap icon"
+  url: "https://scholar.google.com/citations?user=fow4eKkAAAAJ&hl=en"
+  on-homepage: true
+  on-cv: true
+  cv-group: 2
+
 - id: twitter
   description: "@austin_p_wright"
   color: "#1da1f2"
@@ -34,14 +43,7 @@
   on-cv: true
   cv-group: 2
 
-- id: scholar
-  description: "Google Scholar"
-  color: "#515151"
-  class: "fa fa-graduation-cap icon"
-  url: "https://scholar.google.com/citations?user=fow4eKkAAAAJ&hl=en"
-  on-homepage: true
-  on-cv: true
-  cv-group: 2
+
 
 - id: cv
   description: CV PDF
