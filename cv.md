@@ -15,7 +15,7 @@ jsarr:
 <h1><a style="color: #313131; font-weight: 500; font-size: 1.25em" href="https://austinpwright.com">Austin P. Wright</a></h1>
 
 <span class="cv-subtitle">
-*<span class="cv-ai">Civic AI</span> + <span class="cv-soc">Social Computing</span> researcher*
+*<span class="cv-ai">ML</span> + <span class="cv-soc">HCI</span> researcher*
 </span>
 
 <span class="cv-max-width">
@@ -23,7 +23,7 @@ I’m a Ph.D. student in the [College of Computing][coc] at [Georgia Tech][gt] a
 </span>
 
 <span class="cv-max-width">
-My research in **<span class="cv-ai">Civic AI</span>** aims to solve problems intersecting machine learning, human-computer interaction, and public policy, by using a strong principled basis in both mathematical and human centered principles to actualize the potential of new technologies for <span class="cv-soc"> social good </span> with _usability_, _interpretability_, and _fairness_.
+My research in **Scientific Human-Cenetered AI** aims to solve problems intersecting machine learning, human-computer interaction, and scientific computing, by using a strong principled basis in both mathematical and human centered principles to actualize the potential of new technologies by deep collaboration with scientists to develop tools with _usability_, _interpretability_, and _real_ _scientific_ _impact_. 
 </span>
 
 <div class="cv-image-links-wrapper" style="font-size: 16px; padding-bottom: 0;">
