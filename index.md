@@ -56,23 +56,6 @@ title: Home
 
 <!-- <div style="padding-top:15px;"></div> -->
 
-<!-- <hr style="margin-left: 0;">
-<div class="cover-wrapper">
-	<div class="cover-side">
-		Featured <a href="/cv#publications" style="color: #303030"><strong>Research Publications</strong></a>
-	</div>
-{% assign sortedPublications = site.data.publications | sort: 'feature-order' %}
-{% for feature in sortedPublications %}
-{% if feature.featured == true %}
-
-{% include feature.html feature=feature %}
-
-{% endif %}
-{% endfor %}
-
-</div>
- -->
-
 [about]: {{ site.url }}/about
 [projects]: {{ site.url }}/projects
 [archive]: {{ site.url }}/archive "Archive."
