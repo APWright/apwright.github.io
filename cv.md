@@ -87,13 +87,6 @@ My research in **Scientific Human-Cenetered AI** aims to solve problems intersec
 {% include press.html press=press %}
 {% endfor %}
 
-## Talks
-
-{% assign talktitles = site.data.talks | group_by:"title" %}
-{% for title in talktitles %}
-{% include talk.html talk=title %}
-{% endfor %}
-
 <!--
 
 ## Teaching
