@@ -81,25 +81,27 @@ My research in **Scientific Human-Cenetered AI** aims to solve problems intersec
 {% include publication.html pub=pub selectedBoolForBibtex=selectedBoolForBibtex %}
 {% endfor %}
 
+<!--
 ## Press
 
 {% for press in site.data.press %}
 {% include press.html press=press %}
 {% endfor %}
 
-<!--
+
 
 ## Teaching
 
 {% for teach in site.data.teaching %}
 {% include teaching.html teach=teach %}
-{% endfor %} -->
+{% endfor %}
 
 ## Mentoring
 
 {% for mentee in site.data.mentoring %}
 {% include mentee.html mentee=mentee %}
 {% endfor %}
+ -->
 
 <!--
 ## Grants and Funding
@@ -137,12 +139,14 @@ My research in **Scientific Human-Cenetered AI** aims to solve problems intersec
 {% include member.html member=member %}
 {% endfor %} -->
 
+<!--
+
 ## References
 
 {% for reference in site.data.references %}
 {% include reference.html reference=reference %}
 {% endfor %}
-
+ -->
 ## Contact
 
 Austin P. Wright
