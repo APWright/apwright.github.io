@@ -19,7 +19,7 @@ jsarr:
 </span>
 
 <span class="cv-max-width">
-I’m a Ph.D. student in the [College of Computing][coc] at [Georgia Tech][gt] advised by [Polo Chau][poloclub]. 
+I’m an Assistant Professor of Computer Science at Cal Poly San Luis Obispo. I received my Ph.D. at [Georgia Tech][gt] and was advised by Professor [Polo Chau][poloclub]. 
 </span>
 
 <span class="cv-max-width">
@@ -150,18 +150,8 @@ My research in **Scientific Human-Centered Machine Learning** aims to solve prob
 ## Contact
 
 Austin P. Wright
-`apwright@gatech.edu`  
-Coda Tech Square
-Georgia Tech  
-756 W Peachtree St NW
-Atlanta, GA 30308
+`awrigh20@calpoly.edu`  
+
 
 [cv]: {{ site.url }}/cv.pdf "My CV."
 
-[poloclub]: http://poloclub.gatech.edu "Polo Club of Data Science"
-[gt]: http://gatech.edu "Georgia Tech"
-[cse]: http://cse.gatech.edu "GT Computational Science and Engineering"
-[coc]: http://www.cc.gatech.edu "GT College of Computing"
-[polo]: http://www.cc.gatech.edu/~dchau/ "Polo Chau"
-[twitter]: https:/www.twitter.com/austin_p_wright "@austin_p_wright"
-[github]: https:/www.github.com/APWright "github.com/APWright"
