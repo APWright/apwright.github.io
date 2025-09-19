@@ -51,7 +51,7 @@ My research in **Scientific Human-Centered Machine Learning** aims to solve prob
 {% include degree.html degree=degree %}
 {% endfor %}
 
-## Research Experience
+<!-- ## Research Experience
 
 {% for experience in site.data.experiences %}
 {% include experience.html experience=experience %}
