@@ -17,7 +17,7 @@ title: Home
 	
 	<div class="intro-text">
 		<p markdown="1">
-		I’m a Ph.D. student in the [College of Computing][coc] at [Georgia Tech][gt] advised by [Polo Chau][poloclub]. 
+		I’m an Assistant Professor in the Computer Science Department at Cal Poly San Luis Obispo.
 		</p>
 		<p markdown="1">
   My research in **Scientific Human-Centered Machine Learning** aims to solve problems intersecting machine learning, human-computer interaction, and scientific computing, by using a strong principled basis in both mathematical and human centered principles to actualize the potential of new technologies by deep collaboration with scientists developing tools with _usability_, _interpretability_, and _real scientific impact_.
@@ -60,10 +60,4 @@ title: Home
 [projects]: {{ site.url }}/projects
 [archive]: {{ site.url }}/archive "Archive."
 
-[gt]: http://www.gatech.edu "Georgia Tech"
-[cse]: http://cse.gatech.edu "Georgia Tech Computational Science and Engineering"
-[coc]: http://www.cc.gatech.edu "Georgia Tech College of Computing"
-
 [cv]: {{ site.url }}/cv
-[polo]: http://www.cc.gatech.edu/~dchau/ "Polo Chau."
-[poloclub]: http://poloclub.gatech.edu "Polo Club of Data Science"
