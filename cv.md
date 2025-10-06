@@ -75,6 +75,8 @@ My research in **Scientific Human-Centered Machine Learning** aims to solve prob
 {% endfor %} -->
 
 <!-- ### All Publications -->
+---
+## Publications
 
 {% assign selectedBoolForBibtex = false %}
 {% for pub in site.data.publications %}
@@ -147,6 +149,7 @@ My research in **Scientific Human-Centered Machine Learning** aims to solve prob
 {% include reference.html reference=reference %}
 {% endfor %}
  -->
+---
 ## Contact
 
 Austin P. Wright
