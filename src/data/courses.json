@@ -1,0 +1,20 @@
+[
+  {
+    "year": 2026,
+    "term": "Spring",
+    "course": "CSC 480 : Artificial Intelligence",
+    "link": "https://csc480-sp26.github.io/Course-Notes/"
+  },
+  {
+    "year": 2026,
+    "term": "Winter",
+    "course": "CSC 486 : Human-Computer Interaction",
+    "link": "https://calpoly-data-design-lab.github.io/CSC486"
+  },
+  {
+    "year": 2025,
+    "term": "Fall",
+    "course": "CSC 477 : Scientific and Information Visualization",
+    "link": ""
+  }
+]
