@@ -1,9 +1,9 @@
-import pandas as pd  # ty:ignore[unresolved-import]
-from scholarly import scholarly  # ty:ignore[unresolved-import]
+import pandas as pd
+from scholarly import scholarly
 import sys
 
 author = scholarly.search_author_id("fow4eKkAAAAJ")
-author = scholarly.fill(author, sections=["publications"])
+author = scholarly.fill(author, sections=["publications"])  # ty:ignore[invalid-argument-type]
 
 pub_list = []
 for pub in author["publications"]:
@@ -16,4 +16,4 @@ for pub in author["publications"]:
 papers_df = pd.DataFrame(pub_list)
 
 
-papers_df.to_csv(sys.stdout)
+papers_df.to_json('data/scholar.json',orient='records')

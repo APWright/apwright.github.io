@@ -1,0 +1,26 @@
+[
+  {
+    "degree": "PhD",
+    "subject": "Machine Learning",
+    "year": 2025,
+    "institution": "Georgia Institute of Technology",
+    "advisor": "Duen Horng (Polo) Chau",
+    "thesis": "Designing From Data to Discovery: Human-Centered Machine Learning for Interpretable Scientific Data Exploration",
+    "thesis_link": "https://repository.gatech.edu/entities/publication/c77891a6-7166-4048-bdbd-df7632ccdddd"
+  },
+  {
+    "degree": "Msc",
+    "subject": "Computing with Specialism in Machine Learning",
+    "year": 2019,
+    "institution": "Imperial College London",
+    "advisor": "Herbert Wiklicky",
+    "thesis": "Comparison of syntactic and semantic representations of programs in neural embeddings",
+    "thesis_link": "https://arxiv.org/pdf/2001.09201"
+  },
+  {
+    "degree": "BA",
+    "subject": "Physics and Computer Science",
+    "year": 2018,
+    "institution": "University of California, Berkeley"
+  }
+]

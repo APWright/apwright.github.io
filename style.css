@@ -1,6 +1,13 @@
 @import url("observablehq:default.css");
 @import url("https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap");
 
+html {
+    -webkit-text-size-adjust: 100%;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background: var(--theme-background);
+    color: var(--theme-foreground);
+}
 body {
     margin: 0;
     margin-left: 50px;
@@ -12,13 +19,37 @@ body {
     color: #515151;
     margin: auto;
     padding: 10px;
+    max-width: 720px;
+}
+
+main {
+    margin: 1rem auto;
+}
+
+.bio-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+@media (min-width: 600px) {
+    .bio-container {
+        display: flex;
+        flex-wrap: nowrap;
+    }
 }
 
 .logo {
     display: inline;
-    width: 150px;
+    width: 100px;
     vertical-align: top;
-    margin-left: -40px;
+    margin-left: 0px;
+}
+@media (min-width: 600px) {
+    .logo {
+        display: inline;
+        width: 150px;
+        vertical-align: top;
+        margin-left: -40px;
+    }
 }
 
 .intro-title {
@@ -47,7 +78,20 @@ body {
 
 .headshot-card {
     font-family: sans-serif;
-    font-size: 12pt;
+    font-size: 11pt;
+    border: #51515133;
+    border-top-style: none;
+    border-right-style: none;
+    border-bottom-style: none;
+    border-left-style: none;
+    padding: 0.5rem;
+    border-radius: 0.9rem;
+    border-style: solid;
+}
+
+.headshot-card a {
+    color: #515151;
+    text-decoration: none;
 }
 
 .links img {
@@ -60,21 +104,23 @@ body {
     margin-left: 5px;
 }
 
-.info h2 {
+h2 {
     font-size: 20pt;
-    font-style: italic;
-    font-weight: 500;
+    /*font-style: italic;*/
+    font-weight: 600;
+    margin-top: 40pt;
 }
 
-.info {
-    border-color: #51515155;
-    border-style: solid;
-    border-width: 3px;
-    border-radius: 10px;
-    /* font-family: var(--sans-serif); */
-    font-size: 12pt;
-    font-weight: 500;
-    padding-left: 10px;
+hr {
+    border: 0;
+    clear: both;
+    display: block;
+    width: 100%;
+    background-color: #51515155;
+    height: 2px;
+    padding: 0px;
+    margin-top: -15pt;
+    margin-bottom: 10pt;
 }
 
 .cv-heading {
@@ -82,8 +128,6 @@ body {
     font-size: 1.5em;
     font-style: italic;
     font-family: "EB Garamond", serif;
-    margin-bottom: 10px;
-    margin-top: 20px;
 }
 
 .cv-entry {
@@ -112,11 +156,18 @@ body {
     line-height: 12pt;
 }
 
+.cv-course a {
+    color: #515151;
+    text-decoration: none;
+}
+
 .cv-paper-title {
     font-size: 12pt;
     font-weight: 500;
     line-height: 12pt;
     font-style: italic;
+    text-decoration: none;
+    color: #515151;
 }
 
 .cv-paper-citation {
@@ -124,15 +175,4 @@ body {
     font-weight: 400;
     line-height: 12pt;
     margin-left: 15px;
-}
-
-hr {
-    border: 0;
-    clear: both;
-    display: block;
-    width: 100%;
-    background-color: #51515155;
-    height: 2px;
-    padding: 0px;
-    margin-top: 0px;
 }
