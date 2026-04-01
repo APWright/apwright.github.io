@@ -20,6 +20,9 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v7
+      - run: uv python install
+      - run: uv sync --locked --all-extras --dev
       - uses: actions/setup-node@v4
       - run: npm ci
       - run: npm run build
