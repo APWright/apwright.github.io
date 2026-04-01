@@ -18,13 +18,10 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    env:
-      UV_SYSTEM_PYTHON: 1
     steps:
       - uses: actions/checkout@v4
-      - uses: astral-sh/setup-uv@v7
-      - run: uv python install
-      - run: uv sync
+      - uses: actions/setup-python@v6
+      - run: pip install -r requirements.txt
       - uses: actions/setup-node@v4
       - run: npm ci
       - run: npm run build

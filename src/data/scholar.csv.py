@@ -1,5 +1,5 @@
-import pandas as pd
-from scholarly import scholarly
+import pandas as pd  # ty:ignore[unresolved-import]
+from scholarly import scholarly  # ty:ignore[unresolved-import]
 import sys
 
 author = scholarly.search_author_id("fow4eKkAAAAJ")
