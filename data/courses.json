@@ -1,6 +1,16 @@
 [
   {
     "year": 2026,
+    "term": "Fall",
+    "course": "CSC 5666 : Advanced Machine Learning"
+  },
+  {
+    "year": 2026,
+    "term": "Fall",
+    "course": "DATA 3302 : Data Visualization"
+  },
+  {
+    "year": 2026,
     "term": "Spring",
     "course": "CSC 480 : Artificial Intelligence",
     "link": "https://csc480-sp26.github.io/Course-Notes/"
