@@ -1,5 +1,10 @@
 [
   {
+    "year": 2027,
+    "term": "Spring",
+    "course": "DATA 4610 : Fundamentals of Machine Learning"
+  },
+  {
     "year": 2026,
     "term": "Fall",
     "course": "CSC 5666 : Advanced Machine Learning"
